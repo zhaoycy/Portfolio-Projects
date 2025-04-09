@@ -1,0 +1,70 @@
+setwd( "C:/Users/15818/Desktop/Data/R")
+getwd()
+install.packages('readxl')
+
+library(readxl)
+data<-read_excel('1657873325_flightdelays.xlsx')
+ print(data,n=5)
+str(data)
+summary(data)
+ sum(is.na(data))
+data_clean<-na.omit(data)
+install.packages('writexl')
+library(writexl)
+write_xlsx(data_clean,'data_clean.xlsx')
+
+hist(data_clean$deptime)
+barplot(table(data_clean$schedtime),main='distribution of schedtime')
+barplot(table(data_clean$carrier),main='distribution of carrier')
+barplot(table(data_clean$dest),main='distribution of dest')
+barplot(table(data_clean$origin),main='distribution of origin')
+barplot(table(data_clean$weather),main='distribution of weather')
+barplot(table(data_clean$dayweek),main='distribution of dayweek')
+
+data_clean$delay <- as.factor(data_clean$delay)
+# Define a color mapping
+color_mapping <- c("ontime" = "green", "delayed" = "red")
+data_clean$status <- ifelse(data_clean$delay == "ontime", "green", "red")
+plot(data_clean$schedtime, data_clean$deptime, main='Scatter Plot for Flights On Time and Delayed', col=data_clean$status, pch=16)
+legend('topleft', legend = levels(data_clean$delay), col = color_mapping, pch = 16)
+
+convert_to_posix <- function(time) {
+  hour <- time %/% 100
+  minute <- time %% 100
+  as.POSIXct(sprintf("%02d:%02d", hour, minute), format="%H:%M")
+}
+data_clean$schedtime_posix <- sapply(data_clean$schedtime, convert_to_posix)
+data_clean$deptime_posix <- sapply(data_clean$deptime, convert_to_posix)
+data_clean$time_diff <- as.numeric(difftime(data_clean$deptime_posix, data_clean$schedtime_posix, units="mins"))
+ data_clean$time_delay=ifelse(data_clean$time_diff>0,data_clean$time_diff,0)
+print(data_clean,n=10,width = Inf)
+
+boxplot(data_clean$time_delay~data_clean$daymonth,main='box plot of how many days in a month flights are delayed')
+
+total_delay_minutes<-aggregate(x=data_clean$time_delay,by=list(data_clean$daymonth),FUN=sum)
+barplot(total_delay_minutes$x,names.arg =total_delay_minutes$Group.1,xlab='daymonth',ylab='total delay minutes',main='delayed by what time across days')
+
+boxplot(data_clean$time_delay~data_clean$daymonth)
+
+data_clean$schedtime <- sprintf("%02d:%02d", data_clean$schedtime %/% 100, data_clean$schedtime %% 100)
+data_clean$deptime <- sprintf("%02d:%02d", data_clean$deptime %/% 100, data_clean$deptime %% 100)
+
+＃10.Define the hours of departure
+library(lubridate)
+data_clean$deptime_posix <- ymd_hm(paste("1970-01-01", data_clean$deptime))
+data_clean$depthour <- hour(data_clean$deptime_posix)
+departure_hour<-aggregate(data_clean$deptime,by=list(data_clean$depthour),FUN=length)
+barplot(departure_hour$x,names.arg =departure_hour$Group.1,xlab='hour of the day',ylab='num of depature',main='flight depature caross hour')
+
+category_table <- table(data_clean$origin)
+category_table
+
+
+variable_summary <- summary(data_clean)
+
+delay_counts <- table(data_clean$delay)
+delay_percent <- round(delay_counts/sum(delay_counts) * 100, 1)
+pie(delay_counts, 
+    main = 'Flights Delayed', 
+    labels = paste(names(delay_counts), "(", delay_percent, "%)"),
+    col = rainbow(length(delay_counts)))

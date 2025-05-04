@@ -1,6 +1,6 @@
 # Lanbing Zhao-Data-Analyst
 ## About
-Hi, I'm Lanbing! I have an analytical background in banking and recently, I have transitioned into data analysis. <br>
+Hi, I'm Lanbing, a data analyst with a background in macroeconomic analysis. <br>
 
 After finishing a data analysis bootcapm, I became a Junior Data Analyst intern at Fortray Global Services Ltd, where I have worked with large datasets, created interactive dashboards, and supported data-driven decisions. My skills in Python, SQL, and data visualization tools like Power BI and Tableau have helped improve reporting accuracy and streamline analytics processes.<br> 
 

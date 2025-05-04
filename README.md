@@ -4,7 +4,7 @@ Hi, I'm Lanbing, a data analyst with a background in macroeconomic analysis. <br
 
 After finishing a data analysis bootcapm, I became a Junior Data Analyst intern at Fortray Global Services Ltd, where I have worked with large datasets, created interactive dashboards, and supported data-driven decisions. My skills in Python, SQL, and data visualization tools like Power BI and Tableau have helped improve reporting accuracy and streamline analytics processes.<br> 
 
-My CV in [pdf](https://github.com/zhaoycy/Portfolio-Projects/blob/main/Lanbing%20Zhao%20-%20CV%20-%20Data%20Analyst.pdf)<br>
+My CV in [pdf].(https://github.com/zhaoycy/Portfolio-Projects/blob/main/Lanbing%20Zhao%20-%20CV%20-%20Data%20Analyst.pdf)<br>
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.<br>
 

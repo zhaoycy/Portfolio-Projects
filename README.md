@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
  In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### App Rating Prediction using python
-**Code**:[App Rating Prediction.ipynb](https://github.com/zhaoycy/Portfolio-Projects/blob/main/App%20Rating%20Prediction.ipynb)
+**Code**:[App Rating Prediction.ipynb](https://github.com/zhaoycy/Data-Analysis/blob/main/App_Rating_Prediction.ipynb)
 
 **Goal**: To predict the ratings of mobile apps based on various features such as app size, reviews, installs, price, category, and content rating.
 

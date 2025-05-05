@@ -9,8 +9,13 @@ My CV in [pdf](https://github.com/zhaoycy/Portfolio-Projects/blob/main/Lanbing%2
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.<br>
 
 ## Table of Contents
-
-- [Project Overview](#project-overview)
+- [About](#About)
+- [Data Analysis Projects](#Data Analysis Projects)
+  - [App Rating Prediction using python](#App Rating Prediction using python)
+  - [Description](#description)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Python Code](#python-code)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Python Code](#python-code)
@@ -48,7 +53,7 @@ Certificates
 
 Contact
 
-## Portfolio Projects
+## Data Analysis Projects
  In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### App Rating Prediction using python

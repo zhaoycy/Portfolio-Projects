@@ -36,7 +36,7 @@ This is a repository to showcase skills, share projects and track my progress in
 **Results**: By creating optimized SQL queries, views, and stored procedures, the project provided a clear framework for evaluating employee performance based on ratings, experience, and salary. The calculated bonuses helped HR determine extra costs, and the distribution of ratings across departments assisted in identifying top performers and those needing improvement. The project also improved efficiency in retrieving employee data, making it easier for HR to process and make timely decisions for bonus, promotions and training.
 
 ### Flight Delay EDA using R
-**Code**:[Flight Delay EDA](https://github.com/zhaoycy/Data-Analysis/blob/main/Flight%20Delay%20EDA.txt)
+**Code**:[Flight Delay EDA.txt](https://github.com/zhaoycy/Data-Analysis/blob/main/Flight%20Delay%20EDA.txt)
 
 **Goal**: To visualize the effect of various factors like scheduled time, carrier, destination, weather, and day of the week on flight delays, using a variety of plots.
 

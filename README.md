@@ -12,9 +12,13 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 - [Data Analysis Projects](#data-analysis-projects)
   - [Python]
-  - [App Rating Prediction](#app-rating-prediction-using-python)
+    - [App Rating Prediction](#app-rating-prediction-using-python)
   - [SQL]
-  - [Employee Performance Mapping](#Tech-Start-up-Employee-Performance-Mapping-using-SQL)
+    - [Employee Performance Mapping](#Tech-Start-up-Employee-Performance-Mapping-using-SQL)
+  - [R]
+    - [Flight Delay EDA](#Flight-Delay-EDA-using-R)
+  - [Tableau]
+    - [Go to Tableau Public](https://public.tableau.com/app/profile/lanbing.zhao/vizzes)
 - [Certifications](#certifications)
 - [Contact](#contact)
 
@@ -53,3 +57,13 @@ Description: Flight delays are influenced by several factors such as scheduled t
 **Skills**: Lubridate library, Difftime, Aggregate, Missing values handling, Histogram plot, Barplot, Scatter plot, and Box plot.
 
 **Results**: After thoroughly cleaning and preprocessing the data, including handling missing values and converting relevant variables, insightful visualizations were created to understand the relationships between flight delays and key factors such as scheduled time, carrier, weather, and origin/destination. 
+
+### Certificates
+- [Tableau Certified Data Analyst ](#about)(Tableau, Mar 2025))
+- [Certified SQL Developer (Advanced Level)](#data-analysis-projects)(W3Schools, Apr 2025) 
+- [Data Analyst Master(Excel, Python, Tableau, SQL, Power BI, R)]() (Simplilearn, Dec 2024)
+
+### Contacts
+- LinkedIn: [@LanbingZhao](https://www.linkedin.com/in/lanbing-zhao-306603264/)
+- Email: lanbingfortray@gmail.com
+

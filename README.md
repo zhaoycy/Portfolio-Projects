@@ -19,6 +19,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Flight Delay EDA](#Flight-Delay-EDA-using-R)
   - [Tableau]
     - [Regional Sales Comparison](#Sales-Comparison-for-2-Selected-Regions-using-Tableau)
+  - [Power BI]
+    - [Data Professional Survey Breakdown](#Data Professional Survey Breakdown using Power BI)
 - [Certifications](#certifications)
 - [Contact](#contact)
 
@@ -61,13 +63,13 @@ This is a repository to showcase skills, share projects and track my progress in
 ### Sales Comparison for 2 Selected Regions using Tableau
 **Dashboard**:[Regional Sales Comparison.png](https://github.com/zhaoycy/Data-Analysis/blob/main/Tableau%20Project1%20Sales%20Comparison%20Dashboard%20for%20Two%20Selected%20Regions.png)
 
-**Goal**: .
+**Goal**: To create a dashboard to visualise the sales comparison between two selected regions.
 
-**Description**: .
+**Description**: The project aimed to build a comparative sales performance dashboard for upper management to analyze and assess the differences between two selected regions. The goal was to provide data-driven insights for targeted improvements in regional sales strategy. The dashboard was developed in Tableau and incorporated interactive Primary Region and Secondary Region parameters to allow users to dynamically select and compare any two regions from the dataset. Calculated fields were created to capture First Order Date, Total Sales, Average Sales per Order, Number of Customers, Number of Orders, and Number of Products in Sale for each region. 
 
-**Skills**: Filters, Calculated fields, and Parameters.
+**Skills**: Filters, Hierarchy, Calculated fields, and Parameters.
 
-**Results**: . 
+**Results**: The final dashboard provided a dynamic, side-by-side view of regional sales performance, with drill-down capabilities for each key metric. The use of parameters allowed flexible comparisons between any two regions without manual filtering, significantly improving the decision-making process. By visualizing sales KPIs such as first order date, average order value, and product diversity, stakeholders could identify patterns like delayed market entry or underperforming product mixes. 
 
 ### Data Professional Survey Breakdown using Power BI
 **Dashboard**:[Data Professional Survey Breakdown.png](https://github.com/zhaoycy/Data-Analysis/blob/main/Data%20Professional%20Survey%20Breakdown.png)

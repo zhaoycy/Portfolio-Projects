@@ -11,8 +11,10 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](#about)
 - [Data Analysis Projects](#data-analysis-projects)
-  - [App Rating Prediction using Python](#app-rating-prediction-using-python)
-  - [Flight Delay Analysis using R](#flight-delay-analysis-using-r)
+  - [Python]
+  - [App Rating Prediction](#app-rating-prediction-using-python)
+  - [SQL]
+  - [Employee Performance Mapping](#Tech-Start-up-Employee-Performance-Mapping-using-SQL)
 - [Certifications](#certifications)
 - [Contact](#contact)
 

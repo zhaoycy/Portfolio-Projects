@@ -25,7 +25,7 @@ This is a repository to showcase skills, share projects and track my progress in
 **Results**: After cleaning and preprocessing the data (including handling missing values and removing outliers), the model achieved an R² score on the training set, indicating its ability to predict app ratings. The feature engineering steps included applying logarithmic transformations to reduce skewness and one-hot encoding categorical variables. This project provides a predictive model that can help identify apps with high potential ratings.
 
 ### Tech Start-up Employee Performance Mapping
-**Code**: 
+**Code**: [Employee Performance Mapping](https://github.com/zhaoycy/Data-Analysis/blob/main/Tech_Start-up_Employee_Performance_Mapping.sql)
 
 **Goal**:To analyse employee performance data and facilitate the employee performance mapping for a Tech company, including employee ratings analysis, promotions & training recommendations, and bonus calculations.
 

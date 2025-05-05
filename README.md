@@ -67,20 +67,20 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Description**: The project aimed to build a comparative sales performance dashboard for upper management to analyze and assess the differences between two selected regions. The goal was to provide data-driven insights for targeted improvements in regional sales strategy. The dashboard was developed in Tableau and incorporated interactive Primary Region and Secondary Region parameters to allow users to dynamically select and compare any two regions from the dataset. Calculated fields were created to capture First Order Date, Total Sales, Average Sales per Order, Number of Customers, Number of Orders, and Number of Products in Sale for each region. 
 
-**Skills**: Filters, Hierarchy, Calculated fields, Parameters, filled map, .
+**Skills**: Filters, Hierarchy, Calculated fields, Parameters, filled map, text table.
 
 **Results**: The final dashboard provided a dynamic, side-by-side view of regional sales performance, with drill-down capabilities for each key metric. The use of parameters allowed flexible comparisons between any two regions without manual filtering, significantly improving the decision-making process. By visualizing sales KPIs such as first order date, average order value, and product diversity, stakeholders could identify patterns like delayed market entry or underperforming product mixes. 
 
 ### Data Professional Survey Breakdown using Power BI
 **Dashboard**:[Data Professional Survey Breakdown.png](https://github.com/zhaoycy/Data-Analysis/blob/main/Data%20Professional%20Survey%20Breakdown.png)
 
-**Goal**: .
+**Goal**: To build an interactive report that provides an in-depth analysis of survey data collected from a data professional survey conducted by Alex the Analyst, visualizing key metrics and various breakdowns.
 
-**Description**: Alex The Analyst conducted a data professional survey .date job title, gender, salary, industry, country, favorite program language. Use powerquery split columns, repalce values, to standardlise and clean field values, build card to show total survey takers, avg salary, avg age, clustered bar chart to compare avg salary by job title, heatmap to showcase region distribution, donut chart to show gendar salary difference, stacked column chart to see favoraite programming languages,
+**Description**: This project aimed to clean and standardize the survey data to ensure accurate analysis and representation. The survey dataset included fields such as job title, gender, salary, industry, country, and favorite programming language. Using Power Query in Excel, columns were split, and values were replaced to standardize text fields like job titles, industries, and gender. The goal was to produce a comprehensive dashboard with insights into the data professional community's demographic and salary trends.
 
-**Skills**: Split, DAX (Calculated Columns, Calculated Measures), Card, Heat Map, Donut Chart, Stacked Bar Chart.
+**Skills**: Power Query, Data Standardization & Transformation (Splitting Columns, Replacing Values), DAX (Calculated Columns, Calculated Measures), Visualizations (Card Visuals, Clustered Bar Charts, Heatmaps, Donut Charts, Stacked Column Charts).
 
-**Results**: . 
+**Results**: The Power BI report provided a dynamic overview of the survey results. The card visuals allowed for quick insights into the survey's scale, while the clustered bar chart and donut chart gave clear comparisons of salary by job title and gender. The heatmap highlighted regional distibution in survey responses, and the stacked column chart effectively visualized the popularity of various programming languages. This comprehensive analysis helped uncover key trends, such as salary disparities between genders and variations in salary across different job titles. 
 
 ### Certifications
 - [Tableau Certified Data Analyst ](https://github.com/zhaoycy/Data-Analysis/blob/main/Tableau%20Certified%20Data%20Analyst%20Certificate%20from%20Tableau.pdf)(Tableau, Mar 2025))

@@ -59,9 +59,9 @@ Description: Flight delays are influenced by several factors such as scheduled t
 **Results**: After thoroughly cleaning and preprocessing the data, including handling missing values and converting relevant variables, insightful visualizations were created to understand the relationships between flight delays and key factors such as scheduled time, carrier, weather, and origin/destination. 
 
 ### Certificates
-- [Tableau Certified Data Analyst ](#about)(Tableau, Mar 2025))
-- [Certified SQL Developer (Advanced Level)](#data-analysis-projects)(W3Schools, Apr 2025) 
-- [Data Analyst Master(Excel, Python, Tableau, SQL, Power BI, R)]() (Simplilearn, Dec 2024)
+- [Tableau Certified Data Analyst ](https://github.com/zhaoycy/Data-Analysis/blob/main/Tableau%20Certified%20Data%20Analyst%20Certificate%20from%20Tableau.pdf)(Tableau, Mar 2025))
+- [Certified SQL Developer (Advanced Level)](https://verify.w3schools.com/1PUOVYI5N0)(W3Schools, Apr 2025) 
+- [Data Analyst Master(Excel, Python, Tableau, SQL, Power BI, R)](https://fortraynetworks.lms.simplilearn.com/dashboard/certificate) (Simplilearn, Dec 2024)
 
 ### Contacts
 - LinkedIn: [@LanbingZhao](https://www.linkedin.com/in/lanbing-zhao-306603264/)

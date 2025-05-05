@@ -10,7 +10,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](#About)
-- [Data Analysis Projects](#Data Analysis Projects)
+- [Data Analysis Projects](##Data Analysis Projects)
   - [App Rating Prediction using python](#App Rating Prediction using python)
   - [Description](#description)
 - [Tech Stack](#tech-stack)

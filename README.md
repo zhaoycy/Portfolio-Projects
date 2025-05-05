@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Tableau]
     - [Regional Sales Comparison](#Sales-Comparison-for-2-Selected-Regions-using-Tableau)
   - [Power BI]
-    - [Data Professional Survey Breakdown](#Data Professional Survey Breakdown using Power BI)
+    - [Data Professional Survey Breakdown](#Data-Professional-Survey-Breakdown-using-Power-BI)
 - [Certifications](#certifications)
 - [Contact](#contact)
 
@@ -61,7 +61,7 @@ This is a repository to showcase skills, share projects and track my progress in
 **Results**: After thoroughly cleaning and preprocessing the data, including handling missing values and converting relevant variables, insightful visualizations were created to understand the relationships between flight delays and key factors such as scheduled time, carrier, weather, and origin/destination. 
 
 ### Sales Comparison for 2 Selected Regions using Tableau
-**Dashboard**:[Regional Sales Comparison.png](https://github.com/zhaoycy/Data-Analysis/blob/main/Tableau%20Project1%20Sales%20Comparison%20Dashboard%20for%20Two%20Selected%20Regions.png)
+**Dashboard**:[Regional Sales Comparison.png](https://github.com/zhaoycy/Data-Analysis/blob/main/Sales%20Comparison%20for%202%20Selected%20Regions.png)
 
 **Goal**: To create a dashboard to visualise the sales comparison between two selected regions.
 

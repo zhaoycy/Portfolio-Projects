@@ -18,7 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - [R]
     - [Flight Delay EDA](#Flight-Delay-EDA-using-R)
   - [Tableau]
-    - [Go to Tableau Public](https://public.tableau.com/app/profile/lanbing.zhao/vizzes)
+    - [Regional Sales Comparison](#Sales-Comparison-for-2-Selected-Regions)
 - [Certifications](#certifications)
 - [Contact](#contact)
 

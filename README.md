@@ -67,7 +67,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Description**: The project aimed to build a comparative sales performance dashboard for upper management to analyze and assess the differences between two selected regions. The goal was to provide data-driven insights for targeted improvements in regional sales strategy. The dashboard was developed in Tableau and incorporated interactive Primary Region and Secondary Region parameters to allow users to dynamically select and compare any two regions from the dataset. Calculated fields were created to capture First Order Date, Total Sales, Average Sales per Order, Number of Customers, Number of Orders, and Number of Products in Sale for each region. 
 
-**Skills**: Filters, Hierarchy, Calculated fields, and Parameters.
+**Skills**: Filters, Hierarchy, Calculated fields, Parameters, filled map, .
 
 **Results**: The final dashboard provided a dynamic, side-by-side view of regional sales performance, with drill-down capabilities for each key metric. The use of parameters allowed flexible comparisons between any two regions without manual filtering, significantly improving the decision-making process. By visualizing sales KPIs such as first order date, average order value, and product diversity, stakeholders could identify patterns like delayed market entry or underperforming product mixes. 
 
@@ -76,9 +76,9 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Goal**: .
 
-**Description**: .
+**Description**: Alex The Analyst conducted a data professional survey .date job title, gender, salary, industry, country, favorite program language. Use powerquery split columns, repalce values, to standardlise and clean field values, build card to show total survey takers, avg salary, avg age, clustered bar chart to compare avg salary by job title, heatmap to showcase region distribution, donut chart to show gendar salary difference, stacked column chart to see favoraite programming languages,
 
-**Skills**: DAX (Calculated Columns, Calculated Measures), Card, Heat Map, Donut Chart, Stacked Bar Chart.
+**Skills**: Split, DAX (Calculated Columns, Calculated Measures), Card, Heat Map, Donut Chart, Stacked Bar Chart.
 
 **Results**: . 
 

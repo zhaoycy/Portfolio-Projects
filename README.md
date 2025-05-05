@@ -18,7 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - [R]
     - [Flight Delay EDA](#Flight-Delay-EDA-using-R)
   - [Tableau]
-    - [Regional Sales Comparison](#Sales-Comparison-for-2-Selected-Regions)
+    - [Regional Sales Comparison](#Sales-Comparison-for-2-Selected-Regions-using-Tableau)
 - [Certifications](#certifications)
 - [Contact](#contact)
 
@@ -52,11 +52,33 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Goal**: To visualize the effect of various factors like scheduled time, carrier, destination, weather, and day of the week on flight delays, using a variety of plots.
 
-Description: Flight delays are influenced by several factors such as scheduled times, weather conditions, and the carrier. This analysis seeks to explore and visualize how these factors correlate with delays, particularly focusing on understanding the number of delayed flights, how weather impacts delays, and the distribution of delays across different times, days, and carriers.
+**Description**: Flight delays are influenced by several factors such as scheduled times, weather conditions, and the carrier. This analysis seeks to explore and visualize how these factors correlate with delays, particularly focusing on understanding the number of delayed flights, how weather impacts delays, and the distribution of delays across different times, days, and carriers.
 
 **Skills**: Lubridate library, Difftime, Aggregate, Missing values handling, Histogram plot, Barplot, Scatter plot, and Box plot.
 
 **Results**: After thoroughly cleaning and preprocessing the data, including handling missing values and converting relevant variables, insightful visualizations were created to understand the relationships between flight delays and key factors such as scheduled time, carrier, weather, and origin/destination. 
+
+### Sales Comparison for 2 Selected Regions using Tableau
+**Dashboard**:[Regional Sales Comparison.png](https://github.com/zhaoycy/Data-Analysis/blob/main/Tableau%20Project1%20Sales%20Comparison%20Dashboard%20for%20Two%20Selected%20Regions.png)
+
+**Goal**: .
+
+**Description**: .
+
+**Skills**: Filters, Calculated fields, and Parameters.
+
+**Results**: . 
+
+### Data Professional Survey Breakdown using Power BI
+**Dashboard**:[Data Professional Survey Breakdown.png](https://github.com/zhaoycy/Data-Analysis/blob/main/Data%20Professional%20Survey%20Breakdown.png)
+
+**Goal**: .
+
+**Description**: .
+
+**Skills**: DAX (Calculated Columns, Calculated Measures), Card, Heat Map, Donut Chart, Stacked Bar Chart.
+
+**Results**: . 
 
 ### Certifications
 - [Tableau Certified Data Analyst ](https://github.com/zhaoycy/Data-Analysis/blob/main/Tableau%20Certified%20Data%20Analyst%20Certificate%20from%20Tableau.pdf)(Tableau, Mar 2025))

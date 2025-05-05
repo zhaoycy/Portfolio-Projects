@@ -9,49 +9,12 @@ My CV in [pdf](https://github.com/zhaoycy/Portfolio-Projects/blob/main/Lanbing%2
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.<br>
 
 ## Table of Contents
-- [About](#About)
-- [Data Analysis Projects](##Data Analysis Projects)
-  - [App Rating Prediction using python](#App Rating Prediction using python)
-  - [Description](#description)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Python Code](#python-code)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Python Code](#python-code)
-- [SQL Queries](#sql-queries)
-- [R Analysis](#r-analysis)
-- [Visualization (Tableau)](#visualization-tableau)
-- [Results](#results)
-- [License](#license)
-
----
-
-## 📝 Project Overview
-
-This project aims to visualize and understand the impact of weather conditions and other variables on flight delays. Various visualizations such as histograms, scatter plots, and box plots are used to support the analysis.
-
----
-About
-
-Portfolio Projects
-
-Python
-Analyzing the Factors Contributing to the Success of a Movie
-Tech Store Sales Analysis
-SQL
-Covid 19 Data Exploration
-Nashville Housing Data Cleaning
-R
-Legendary Pokémon Analysis (Study Project)
-Excel / Google Sheets
-Tableau---> go to Tableau..
-Power BI
-Education
-
-Certificates
-
-Contact
+- [About](#about)
+- [Data Analysis Projects](#data-analysis-projects)
+  - [App Rating Prediction using Python](#app-rating-prediction-using-python)
+  - [Flight Delay Analysis using R](#flight-delay-analysis-using-r)
+- [Certifications](#certifications)
+- [Contact](#contact)
 
 ## Data Analysis Projects
  In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
